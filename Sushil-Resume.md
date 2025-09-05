@@ -2,8 +2,8 @@
 
 **📱 Mobile:** +61 455 746 999  
 **💻 GitHub:** https://github.com/sushil-bhattacharjee/Resume.git  
-**🔗 LinkedIn:** www.linkedin.com/in/sushilbhattacharjee
-
+**🔗 LinkedIn:** www.linkedin.com/in/sushilbhattacharjee  
+**Repo: https://github.com/sushil-bhattacharjee
 ---
 
 ## 🎯 **Summary**
